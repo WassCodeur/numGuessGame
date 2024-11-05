@@ -1,6 +1,6 @@
 // numGuessGame
 let numberGenerated = Math.floor(Math.random() * 100) + 1;
-let attempts = 10; // number of attempts
+let attempts = 5; // number of attempts
 
 // Get elements from the DOM
 const guessInput = document.getElementById('guessInput');
