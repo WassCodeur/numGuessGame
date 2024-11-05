@@ -29,7 +29,7 @@ function checkGuess() {
         feedback.textContent = "Win";
         guessButton.disabled = true; 
     } else if (attempts === 0) { 
-        feedback.textContent = `Lost the good number was: ${numberGenerated}.`;
+        feedback.textContent = `Loss the good number was: ${numberGenerated} you try again.`;
         guessButton.disabled = true; 
     } else if (userGuess < numberGenerated) { 
         feedback.textContent = "Too low! Try a higher number.";
