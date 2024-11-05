@@ -50,7 +50,7 @@ You can test the game live here: [NumGuessGame](https://num-guesser-game.vercel.
 - **assets/styles/style.css** - Contains the styling for the game layout.
 - **assets/js/index.js** - Contains the game logic, including generating the random number, checking the user's guess, and handling the reset functionality.
 
-## Screenshots
+## Screenshot
 
 ![Game Screenshot](assets/imgs/image.png)
 *A simple interface with input, feedback, and controls.*
