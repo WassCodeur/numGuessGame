@@ -6,7 +6,7 @@ This is a simple **Number Guesser Game** where the player tries to guess a rando
 
 - Guess a number between 1 and 100.
 - Receive hints if the guess is too high or too low.
-- Limited attempts to guess the correct number (10 attempts by default).
+- Limited attempts to guess the correct number (5 attempts by default).
 - Option to reset and play a new game with a different random number.
 
 
